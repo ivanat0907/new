@@ -664,3 +664,8 @@
         width: 100%;
     }
 }
+
+.card{
+    background-color: #131313;
+    padding: 5rem 0;
+}
