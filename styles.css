@@ -31,7 +31,7 @@
 
 #navbar__logo {
     background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-image: linear-gradient(to top, #ff08ce 0%, #ffb199 100%);
     /*background-image: linear-gradient(to bottom, #000000, #fff);*/
     background-size: 100%;
     -webkit-background-clip: text;
@@ -87,7 +87,7 @@
     border-radius: 4px;
     background: #833ab4;
     background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
-    background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+    background: linear-gradient(to right, #e7bceb, #ec55e9, #b303ee);
     color: #fff;
     transition: all 0.3s ease;
 }
@@ -278,6 +278,7 @@
     font-size: 2rem;
     background-color: #fe3b6f;
     background-image: linear-gradient(to top, #ff087b 0%, #ed1a52 100%);
+    background-image: linear-gradient(to top, #ff08ce 0%, #ffb199 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -456,6 +457,7 @@
 .services h1 {
     background-color: #ff8177;
     background-image: linear-gradient(to right, #ff0844 0%, #f7673c 100%);
+    background-image: linear-gradient(to top, #ff08ce 0%, #ffb199 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
